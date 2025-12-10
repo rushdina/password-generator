@@ -15,7 +15,7 @@ Users can create strong random passwords, customize length and character types, 
 - Click-to-copy passwords.
 - Responsive and interactive UI.
 
-## 🧠 What I Learned 
+## 🧩 Concepts Practiced 
 - DOM manipulation & event handling.
 - Random value generation from multiple character sets.
 - Implemented Fisher-Yates shuffle for randomness.
