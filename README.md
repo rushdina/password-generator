@@ -4,7 +4,7 @@ A password generator that generates random passwords with options for letters, n
 Set password length and click a password to copy it to your clipboard.
 
 ## 🖼️ Preview
-🔗 Live Demo: https://scrimba-password-generator-rushdina.netlify.app/
+🔗 Live Demo: https://password-generator-rushdina.netlify.app/
 
 ![Password Generator Preview](images/screenshot-passwordGenerator.png)
 
