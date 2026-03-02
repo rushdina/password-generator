@@ -1,7 +1,6 @@
 # 🔑 Password Generator
 
-A password generator solo project from the [Scrimba Frontend Developer Career Path](https://scrimba.com/frontend-path-c0j).  
-Generate random passwords with options for letters, numbers, and symbols. 
+A password generator that generates random passwords with options for letters, numbers, and symbols. 
 Set password length and click a password to copy it to your clipboard.
 
 ## 🖼️ Preview
@@ -16,7 +15,7 @@ Set password length and click a password to copy it to your clipboard.
 - Dynamically generating random passwords using JS
 - Handling multiple character sets and user options
 - Ensuring at least one character from each selected charset
-- Implementing Fisher-Yates shuffle for randomness
+- Implementing `Fisher-Yates Shuffle` for randomness
 - Clipboard API for copy-on-click functionality
 - Event listeners for interactive UI
 
